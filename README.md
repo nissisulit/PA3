@@ -1,6 +1,6 @@
 # PA#3
 
-## Name: Nissi ALeichem B. Sulit
+## Name: Nissi Aleichem B. Sulit
 ## Section: 2ECE-B
 ## Date Submitted: September 10, 2026
 
